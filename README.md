@@ -67,7 +67,7 @@ The system provides separate access for Admin and Customer users and uses a grap
 
 ## Project Structure
 
-
+```text
 Smart-Parking-Management-System
 │
 ├── model
